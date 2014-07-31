@@ -15,6 +15,7 @@ void setup() {
 }
 
 void draw() {
+  background(255);
   ball1.drop();
   ball2.drop();
   ball3.drop();
